@@ -1,0 +1,9 @@
+{
+  "server":"192.168.0.155",
+  "port":"20202",
+  "inLine":"4116",
+  "outLine":"4118",
+  "poolSize":"2",
+  "pollingNum":"-1",
+  "intervalTime":"100"
+}
